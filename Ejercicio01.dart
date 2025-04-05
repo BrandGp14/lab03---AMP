@@ -1,4 +1,3 @@
-// Clase base Usuario
 class Usuario {
   String nombre;
   String email;
